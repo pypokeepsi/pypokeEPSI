@@ -2,7 +2,7 @@
 
 [X] Sur la base de la deuxième version
 
-[ ] On peut changer de zone en allant sur le bord de l'écran, on compte 2 zones
+[X] On peut changer de zone en allant sur le bord de l'écran, on compte 2 zones
 
 [ ] On peut combattre les autres dresseurs en marchant dessus
 
