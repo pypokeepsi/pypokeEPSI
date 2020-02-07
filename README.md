@@ -1,9 +1,13 @@
 > STATUS : Version 3
 
 [X] Sur la base de la deuxième version
+
 [ ] On peut changer de zone en allant sur le bord de l'écran, on compte 2 zones
+
 [ ] On peut combattre les autres dresseurs en marchant dessus
+
 [X] Gagner des récompenses
+
 [X] Gestion de l'inventaire
 
 ## Consignes
