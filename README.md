@@ -1,12 +1,10 @@
-> STATUS : Version 2
+> STATUS : Version 3
 
-[X] Sur la base de la premiere version
-
-[X] On peut combattre les pokémons
-
-[X] On peut afficher les informations du personnage et de ses pokémons
-
-[X] On peut capturer les pokémons sauvages
+[X] Sur la base de la deuxième version
+[ ] On peut changer de zone en allant sur le bord de l'écran, on compte 2 zones
+[ ] On peut combattre les autres dresseurs en marchant dessus
+[X] Gagner des récompenses
+[X] Gestion de l'inventaire
 
 ## Consignes
 
